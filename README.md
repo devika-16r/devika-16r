@@ -38,8 +38,8 @@ Check out my repositories for a range of projects on Machine Learning, Data Scie
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika-16r&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika-16r&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devika-16r&show_icons=true&theme=react&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika-16r&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
