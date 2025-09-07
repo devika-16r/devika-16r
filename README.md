@@ -4,19 +4,48 @@
 
 I'm a passionate **Software Developer | AIML & Data Science Enthusiast** who loves turning data into meaningful insights and building intelligent solutions. 🚀
 
----
-
-
-## 💻 Skills & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-F5F5DC?style=for-the-badge&logo=python&logoColor=brown" /> 
-  <img src="https://img.shields.io/badge/SQL-F5F5DC?style=for-the-badge&logo=postgresql&logoColor=brown" /> 
-  <img src="https://img.shields.io/badge/Data_Science-694427?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/AI-694427?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Machine_Learning-694427?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Pandas-F5F5DC?style=for-the-badge&logo=pandas&logoColor=brown" /> 
-  <img src="https://img.shields.io/badge/Numpy-F5F5DC?style=for-the-badge&logo=numpy&logoColor=brown" /> 
-</p>
+------
+<h3 align="left">💻 Languages and Tools:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / ML & Data Science:</td>
+        <td>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
+          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+          <img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch"/> 
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Visualization / Analysis:</td>
+        <td>
+          <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE / Notebook:</td>
+        <td>
+          <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+          <img height="40" src="https://skillicons.dev/icons?i=jupyter"/>
+        </td>
+    </tr>
+</table>
 
 ---
 
