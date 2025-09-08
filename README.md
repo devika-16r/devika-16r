@@ -2,7 +2,33 @@
 
 ![Devika Banner](https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=220&section=header&text=Hi%2C%20I'm%20Devika!&fontSize=40&animation=fadeIn)
 
-I'm a passionate **Software Developer | AIML & Data Science Enthusiast** who loves turning data into meaningful insights and building intelligent solutions. 🚀
+
+---
+
+### About Me  
+
+I’m a **software developer** who gets easily hurt when I can’t solve a question and gets super happy when my code actually works.  
+
+I’m also someone with **massive ideas** for innovative projects and, at the same time, I get scared by the thought “what if it doesn’t work?”. That same idiot in me pops up every time I’m into DSA. But yes, I’m scared, but I also have the courage to **pick it back up** (even if it’s just that tiny 1% hope).  
+
+But more than all that I’m endlessly fascinated by **data**.  
+I’ve always wanted to work with it because it’s as interesting as me, right?   
+So let’s just say… I’m in the **first phase of love with data** .  
+
+ **Outside of these, you’ll probably find me:**  
+-  Reading a book  
+-  Listening to music  
+-  Dancing like nobody’s watching (yeahhh, all the girly stuff)  
+
+**Academics?**  
+Not a topper, but definitely better than average (around 8/10).  
+
+**Outside academics?**  
+That’s where I shine, competitions, leadership, communication, I jump right in.  
+
+**My vibe?**  
+I’m super talkative around people who match my energy, and super quiet with those who don’t.  
+Right now, I’m diving deep into fun, challenging, and interesting stuff (and not just academics).  
 
 ------
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -13,7 +39,7 @@ I'm a passionate **Software Developer | AIML & Data Science Enthusiast** who lov
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / ML & Data Science:</td>
@@ -50,40 +76,14 @@ I'm a passionate **Software Developer | AIML & Data Science Enthusiast** who lov
 ---
 
 ## 🚀 Projects 
-Check out my repositories for a range of projects on Machine Learning, Data Science and much more.
+Here’s the fun part, my projects! Some of them worked perfectly, some of them broke 100 times before they did (classic me )
 
 ---
-
-## 🌱 Current Focus
-<p>
-  <img src="https://img.shields.io/badge/Currently_Learning-Advanced_ML_models-8B4513?style=for-the-badge" /><br>
-  - Implementing advanced ML models for real-world applications
-  <br><br>
-  <img src="https://img.shields.io/badge/Exploring-Real_World_AI-8B4513?style=for-the-badge" /><br>
-  - AI integration in software development 
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika-16r&show_icons=true&theme=react&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika-16r&layout=compact&theme=react&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devika-16r&theme=react&hide_border=true" />
 </p>
-
----
-
-## 🎯 Hobbies
-<p>
-  <img src="https://img.shields.io/badge/Reading-📚-694427?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Traveling-✈️-694427?style=for-the-badge" /> 
-</p>
-
 
 ---
 
