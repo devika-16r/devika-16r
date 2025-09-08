@@ -7,9 +7,7 @@
 
 ### About Me  
 
-I’m a **software developer** who gets easily hurt when I can’t solve a question and gets super happy when my code actually works.  
-
-I’m also someone with **massive ideas** for innovative projects and, at the same time, I get scared by the thought “what if it doesn’t work?”. That same idiot in me pops up every time I’m into DSA. But yes, I’m scared, but I also have the courage to **pick it back up** (even if it’s just that tiny 1% hope).  
+I’m a **software developer** and **AI/ML Enthusiast** who gets easily hurt when I can’t solve a question and gets super happy when my code actually works.  
 
 But more than all that I’m endlessly fascinated by **data**.  
 I’ve always wanted to work with it because it’s as interesting as me, right?   
@@ -19,15 +17,7 @@ So let’s just say… I’m in the **first phase of love with data** .
 -  Reading a book  
 -  Listening to music  
 -  Dancing like nobody’s watching (yeahhh, all the girly stuff)  
-
-**Academics?**  
-Not a topper, but definitely better than average (around 8/10).  
-
-**Outside academics?**  
-That’s where I shine, competitions, leadership, communication, I jump right in.  
-
-**My vibe?**  
-I’m super talkative around people who match my energy, and super quiet with those who don’t.  
+ 
 Right now, I’m diving deep into fun, challenging, and interesting stuff (and not just academics).  
 
 ------
@@ -75,25 +65,11 @@ Right now, I’m diving deep into fun, challenging, and interesting stuff (and n
 
 ---
 
-## 🚀 Projects 
+##  Projects 
+
 Here’s the fun part, my projects! Some of them worked perfectly, some of them broke 100 times before they did (classic me )
+You can check them out here: [My Repositories](https://github.com/devika-16r?tab=repositories)
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devika-16r&theme=react&hide_border=true" />
-</p>
 
----
-
-## 📫 Connect with Me
-<p>
-  <a href="mailto:rdevika753@gmail.com">
-    <img src="https://img.shields.io/badge/rdevika753@gmail.com-F5F5DC?style=for-the-badge&logo=gmail&logoColor=brown" /> 
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/devika-rajangam/">
-     <img src="https://img.shields.io/badge/Devika-694427?style=for-the-badge&logo=linkedin&logoColor=brown" /> 
-  </a>
-</p>
