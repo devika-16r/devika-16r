@@ -15,7 +15,7 @@ So let’s just say… I’m in the **first phase of love with data** .
 
  **Outside of these, you’ll probably find me:**  
 -  Reading a book  
--  Listening to music  
+-  Listening to music, watching a movie
 -  Dancing like nobody’s watching (yeahhh, all the girly stuff)  
  
 Right now, I’m diving deep into fun, challenging, and interesting stuff (and not just academics).  
@@ -65,11 +65,23 @@ Right now, I’m diving deep into fun, challenging, and interesting stuff (and n
 
 ---
 
+
 ##  Projects 
 
 Here’s the fun part, my projects! Some of them worked perfectly, some of them broke 100 times before they did (classic me )
 You can check them out here: [My Repositories](https://github.com/devika-16r?tab=repositories)
 
 ---
+
+## Connect with Me  
+
+Wanna talk data, movie, or just books & music?
+I’m always up for a good conversation (and maybe a little too talkative if you match my vibe ).
+
+<p align="center"> 
+&nbsp; <a href="mailto:rdevika753@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/devika-rajangam/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
+</p>
 
 
