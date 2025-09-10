@@ -15,8 +15,8 @@ So let’s just say… I’m in the **first phase of love with data** .
 
  **Outside of these, you’ll probably find me:**  
 -  Reading a book  
--  Listening to music, watching a movie
--  Dancing like nobody’s watching (yeahhh, all the girly stuff)  
+-  Listening to music
+-  Watching a movie
  
 Right now, I’m diving deep into fun, challenging, and interesting stuff (and not just academics).  
 
