@@ -7,11 +7,10 @@
 
 ### About Me  
 
-I’m a **software developer** and **AI/ML Enthusiast** who gets easily hurt when I can’t solve a problem and gets super happy when my code actually works.  
+I’m a **software developer** and **AI/ML** enthusiast who celebrates every working line of code.
 
 But more than all that I’m endlessly fascinated by **data**.  
-I’ve always wanted to work with it because it’s as interesting as me, right?   
-So let’s just say… I’m in the **first phase of love with data** .  
+I’ve always wanted to work with it because it’s as interesting as me, right?
 
  **Outside of these, you’ll probably find me:**  
 -  Reading a book  
