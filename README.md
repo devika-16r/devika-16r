@@ -28,7 +28,7 @@ Right now, I’m diving deep into fun, challenging, and interesting stuff (and n
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / ML & Data Science:</td>
