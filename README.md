@@ -9,14 +9,6 @@
 
 I’m a **software developer** and **AI/ML** enthusiast who celebrates every working line of code.
 
-But more than all that I’m endlessly fascinated by **data**.  
-I’ve always wanted to work with it because it’s as interesting as me, right?
-
- **Outside of these, you’ll probably find me:**  
--  Reading a book  
--  Listening to music
--  Watching a movie
- 
 Right now, I’m diving deep into fun, challenging, and interesting stuff (and not just academics).  
 
 ------
