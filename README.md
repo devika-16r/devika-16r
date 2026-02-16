@@ -19,6 +19,12 @@ Right now, I’m diving deep into fun, challenging, and interesting stuff (and n
         <td><img height="40" src="https://skillicons.dev/icons?i=python,java"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td>
+          <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,typescript"/>
+        </td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
