@@ -53,7 +53,7 @@ Right now, I’m diving deep into fun, challenging, and interesting stuff (and n
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE / Notebook:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
+          <img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm"/>
           <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
           <img height="40" src="https://skillicons.dev/icons?i=jupyter"/>
         </td>
